@@ -20,3 +20,6 @@ def min_finder(list):
   min_num = 0
   min_num = min(list)
   return min_num
+
+
+remove_duplicates(my_list)
